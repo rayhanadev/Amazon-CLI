@@ -1,5 +1,5 @@
 # Amazon CLI*
-##### *Unofficial
+***Unofficial**
 
 Ever had that moment when you’re coding and then you think *Wait, I really need this Amazon thing*, but are too lazy to navigate to Amazon? Well this NodeJS project uses an Amazon Scraper to make getting Amazon products **easy from the comfort of your console**! No more waiting for Amazon to load, scrolling through the many distracting pages, then giving up. **Simply select search features, your type of search, and your product name and get near-instant results**.
 
